@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-container {
+  background: rgb(26, 26, 136);
+  margin: 0;
+  padding: 20px 20px;
+  color: white;
+}
+
+.card-container {
+  display: flex;
+}
+
+.list-container,
+.form-container {
+  padding: 20px 20px;
+}
+
+small {
+  color: grey;
+}
+
+.bio {
+  margin-bottom: 3px;
+}
+
+.card {
+  padding: 20px;
+  background: rgb(255, 255, 255);
+  width: 18rem;
+  border-radius: 5px;
+  border: 1px solid rgb(190, 189, 189);
+  margin-right: 20px;
+}
+
+.delete-button {
+  background: rgb(243, 116, 116);
+  color: white !important;
+  padding: 5px;
+  border: none;
+  width: 5rem;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.button-add {
+  background: rgb(26, 26, 136);
+  color: white !important;
+  padding: 5px;
+  border: none;
+  width: 10rem;
+  border-radius: 5px;
+  margin: 20px 0px;
+}
+
+.button-back {
+  background: rgb(255, 255, 255);
+  color: #9a74f3;
+  padding: 5px;
+  border: 1px solid #9a74f3;
+  width: 10rem;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.form-group {
+  margin: 10px 0;
+}
+
+.form {
+  height: 30px;
+  width: 30rem;
+  padding: 10px;
+  border: none;
+  background: rgb(236, 236, 253);
+  border-radius: 5px;
+}
+
+.form-disable {
+  height: 30px;
+  width: 30rem;
+  padding: 10px;
+  border: none;
+  background: rgb(226, 226, 226);
+  border-radius: 5px;
+}
+
+.form-select {
+  height: 40px;
+  width: 30rem;
+  padding: 10px;
+  border: none;
+  background: rgb(236, 236, 253);
+  border-radius: 5px;
+}
+
+.headerText {
+  display: flex;
+  justify-content: space-between;
+}
+
+.noBold {
+  font-weight: 500;
+}

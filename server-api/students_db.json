@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "studentNumber": 1941720237,
+      "name": "Omar Al-Maktary",
+      "phone": "082123533955",
+      "year": 2019,
+      "studyProgramId": 3,
+      "statusId": 1
+    },
+    {
+      "id": 2,
+      "studentNumber": 140821253,
+      "name": "Someone 1",
+      "phone": "081802231249",
+      "year": 2015,
+      "studyProgramId": 2,
+      "statusId": 2
+    },
+    {
+      "id": "4c28f3cc-7032-497c-a5a9-751867589e50",
+      "studentNumber": "024567",
+      "name": "omar",
+      "phone": "0213245",
+      "year": "20134",
+      "studyProgramId": 1,
+      "statusId": 2
+    },
+    {
+      "id": "51f234a5-1273-4ca4-a2a6-1e7fc9cf0f6e",
+      "studentNumber": "024567",
+      "name": "omar",
+      "phone": "0213245",
+      "year": "20134",
+      "studyProgramId": "2",
+      "statusId": "2"
+    }
+  ],
+  "studyPrograms": [
+    {
+      "id": 1,
+      "name": "Informatics Engineering"
+    },
+    {
+      "id": 2,
+      "name": "Informatics Management"
+    },
+    {
+      "id": 3,
+      "name": "Informatics Technology"
+    }
+  ],
+  "statuses": [
+    {
+      "id": 1,
+      "name": "active"
+    },
+    {
+      "id": 2,
+      "name": "leave"
+    },
+    {
+      "id": 3,
+      "name": "graduate"
+    }
+  ]
+}
